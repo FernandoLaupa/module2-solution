@@ -15,7 +15,7 @@ ul {
     display: flex;
     justify-content: space-around;
     padding: 20px;
-    list-style-type: none; /* Elimina los puntos de la lista */
+    list-style-type: none; 
 }
 
 li {
@@ -23,7 +23,7 @@ li {
     
     border: 2px solid #000;
     padding: 10px;
-    margin-bottom: 20px; /* Ajusta el margen inferior de li según tus preferencias */
+    margin-bottom: 20px; 
     box-sizing: border-box;
     margin-left: 1%;
 }
@@ -36,16 +36,16 @@ h2 {
     text-align: center;
     margin: 0;
     padding: 5px;
-    background-color: #3b0f0f; /* Color de fondo para el rectángulo del h2 */
+    background-color: #3b0f0f; 
     border: 2px solid #000;
-    width: 50%; /* Ajusta el ancho del h2 según tus preferencias */
+    width: 50%; 
     box-sizing: border-box;
 }
 
 p {
     text-align: justify;
     margin: 0;
-    padding-top: 15%; /* Añade espacio alrededor del párrafo */
+    padding-top: 15%;
 }
 
 footer {
